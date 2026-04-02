@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://b0sushdo8wt7t"]
+
+[ext_resource type="Script" uid="uid://c05iybd1a77mc" path="res://addons/mpf-gmc/mpf_gmc.gd" id="1_r1mnt"]
+
+[node name="Attract" type="Node" unique_id=1821283965]
+script = ExtResource("1_r1mnt")
+metadata/_custom_type_script = "uid://c05iybd1a77mc"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=76605168]
+offset_right = 1280.0
+offset_bottom = 1024.0
+color = Color(0.0010289602, 0.024182532, 0.128043, 1)
+
+[node name="Label" type="Label" parent="." unique_id=1005246877]
+offset_right = 1278.0
+offset_bottom = 1025.0
+theme_override_font_sizes/font_size = 80
+text = "Wallace and gromit pinball"
+horizontal_alignment = 1
+vertical_alignment = 1

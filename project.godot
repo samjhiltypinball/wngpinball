@@ -11,12 +11,22 @@ config_version=5
 [application]
 
 config/name="Wallace and gromit"
+run/main_scene="uid://ds4gduf8660uj"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
+
+[audio]
+
+buses/default_bus_layout="uid://crh0pq40mlo7g"
 
 [autoload]
 
 MPF="*uid://c05iybd1a77mc"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=1024
 
 [editor_plugins]
 
