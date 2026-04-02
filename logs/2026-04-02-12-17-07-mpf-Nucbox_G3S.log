@@ -1,0 +1,62 @@
+2026-04-02 12:17:07,092 : INFO : root : Loading config.
+2026-04-02 12:17:07,390 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\WNGPIN~1\AppData\Local\Temp\config_spec.mpf_cache
+2026-04-02 12:17:07,391 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-04-02 12:17:07,391 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-04-02 12:17:07,469 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2026-04-02 12:17:07,469 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\Desktop\wngrepo\config\config.yaml.
+2026-04-02 12:17:07,483 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\Desktop\wngrepo\config\config.yaml
+2026-04-02 12:17:07,484 : INFO : ConfigProcessor : Config file cache created: C:\Users\WNGPIN~1\AppData\Local\Temp\c1decd60ab95e32bcfb30078d30197a0.mpf_cache
+2026-04-02 12:17:07,935 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-04-02 12:17:07,950 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-04-02 12:17:07,950 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\Desktop\wngrepo\modes\attract\config\attract.yaml.
+2026-04-02 12:17:07,964 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\Desktop\wngrepo\modes\attract\config\attract.yaml
+2026-04-02 12:17:07,965 : INFO : ConfigProcessor : Config file cache created: C:\Users\WNGPIN~1\AppData\Local\Temp\81ca48c68b3cfd8d6cbcdb2327132f1f.mpf_cache
+2026-04-02 12:17:07,966 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml.
+2026-04-02 12:17:07,982 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml
+2026-04-02 12:17:07,983 : INFO : ConfigProcessor : Config file cache created: C:\Users\WNGPIN~1\AppData\Local\Temp\ae50daa6c45b2bdfa56f71c645b1805c.mpf_cache
+2026-04-02 12:17:07,984 : INFO : ConfigProcessor : Loading config from cache: C:\Users\WNGPIN~1\AppData\Local\Temp\81ca48c68b3cfd8d6cbcdb2327132f1f.mpf_cache
+2026-04-02 12:17:08,009 : INFO : ConfigProcessor : Loading config from file C:\Users\WNGPINBALL\Desktop\wngrepo\modes\base\config\base.yaml.
+2026-04-02 12:17:08,021 : INFO : ConfigProcessor : Loading config: C:\Users\WNGPINBALL\Desktop\wngrepo\modes\base\config\base.yaml
+2026-04-02 12:17:08,022 : INFO : ConfigProcessor : Config file cache created: C:\Users\WNGPIN~1\AppData\Local\Temp\82363fec2b95bcc78aba21b2146144dc.mpf_cache
+2026-04-02 12:17:08,023 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev13
+2026-04-02 12:17:08,023 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-04-02-12-17-07-mpf-Nucbox_G3S.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\WNGPINBALL\\Desktop\\wngrepo\\logs\\2026-04-02-12-17-07-mpf-Nucbox_G3S.log'}
+2026-04-02 12:17:08,023 : INFO : Machine : MPF path: C:\Users\WNGPINBALL\mpf\Lib\site-packages\mpf
+2026-04-02 12:17:08,023 : INFO : Machine : Machine path: C:\Users\WNGPINBALL\Desktop\wngrepo
+2026-04-02 12:17:08,023 : INFO : Machine : Platform: win32
+2026-04-02 12:17:08,023 : INFO : Machine : Python executable location: C:\Users\WNGPINBALL\mpf\Scripts\python.exe
+2026-04-02 12:17:08,023 : INFO : Machine : Python version: 3.14.3 (64-bit)
+2026-04-02 12:17:08,027 : INFO : Machine : Initializing MPF...
+2026-04-02 12:17:08,605 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,634 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,634 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev13', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,634 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev13, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,635 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.14.3', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,861 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,861 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,862 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,862 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,862 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,862 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\WNGPINBALL\\Desktop\\wngrepo\\logs\\2026-04-02-12-17-07-mpf-Nucbox_G3S.log', 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,862 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-04-02 12:17:08,876 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-04-02 12:17:08,885 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-04-02 12:17:08,887 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-04-02 12:17:08,889 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,889 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,889 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-04-02 12:17:08,889 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-04-02 12:17:08,890 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-04-02 12:17:08,890 : INFO : Mode.attract : Started. Priority: 10
+2026-04-02 12:17:08,891 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-04-02 12:17:08,891 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-04-02 12:17:08,891 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-04-02 12:17:08,891 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-04-02 12:17:41,745 : INFO : Machine : Shutting down...
+2026-04-02 12:17:41,745 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-04-02 12:17:41,748 : INFO : root : MPF run loop ended.
